@@ -6,13 +6,13 @@ Bem-vindo ao gerenciador de lista telefônica! Este pequeno e simples projeto fo
 
 
 ### Tela Principal
-![Print 1](print1.png)
+![Print 1](print1.PNG)
 
 ### Adicionar Contato
-![Print 2](print2.png)
+![Print 2](print2.PNG)
 
 ### Tecnologias Utilizadas
-![Print 3](print3.png)
+![Print 3](print3.PNG)
 
 
 ### Se gostou, deixe uma 🌟🌟🌟 !
