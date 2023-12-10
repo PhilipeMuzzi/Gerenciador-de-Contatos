@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Bem-vindo ao gerenciador de lista telefônica totalmente responsivo ! Este pequeno e simples projeto foi desenvolvido para facilitar a organização de contatos telefônicos, sendo também criado para constantemente exercitar conceitos básicos de Java Script, React e Design do usuário.
+Bem-vindo ao gerenciador de lista telefônica totalmente funcional e responsivo para todas as telas ! Este pequeno e simples projeto foi desenvolvido para facilitar a organização de contatos telefônicos, sendo também criado para constantemente exercitar conceitos básicos de Java Script, React e Design do usuário.
 
 
 ### Tela Principal:
